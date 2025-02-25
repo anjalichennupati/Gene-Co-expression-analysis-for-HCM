@@ -3,7 +3,7 @@
 
 # Overview
 
-This project implements Weighted Gene Co-expression Network Analysis (WGCNA) for Hypertrophic Cardiomyopathy (HCM) using a dataset from GEO-NCBI (GSE36961). The analysis involves gene expression profiling of 145 samples, preprocessing, outlier detection, network construction, and identifying driver genes. The results are visualized using hierarchical clustering, PCA, and correlation heatmaps, helping to identify key biomarkers for HCM.
+This project implements Weighted Gene Co-expression Network Analysis (WGCNA) for Hypertrophic Cardiomyopathy (HCM) using a dataset from GEO-NCBI (GSE36961). The analysis involves gene expression profiling of 145 samples, preprocessing, outlier detection, network construction, and identifying driver genes. The results are visualized using hierarchical clustering, PCA, and correlation heatmaps, helping to identify key biomarkers for HCM. Below is an overview of the analysis, along with sample outputs and results. This project was done in May' 2023.
 
 
 
